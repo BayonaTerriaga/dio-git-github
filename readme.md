@@ -13,6 +13,7 @@ Repositorio para armazenar resumos git Github do curso de versionamento
 | Aulas | Resumos |
 |-------|---------|
 | Gravando alterações para a aula Local [Resumos]()
+| Gravando alterações para a aula Local 
 
 
 ```
